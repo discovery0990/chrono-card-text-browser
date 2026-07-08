@@ -8,13 +8,13 @@ Data provided by [Chrono DB](https://www.chrono-db.net/).
 
 ## Browsing
 
-Open `cards/` in yazi to browse all cards by syndicate (directory), sorted by cost (filename prefix). Open `decks/` to browse saved deck directories.
+Open `cards/` in [yazi](https://github.com/sxyazi/yazi) to browse all cards by syndicate (directory), sorted by cost (filename prefix). Open `decks/` to browse saved deck directories.
 
 ![yazi browsing cards](yazi-return-to-stillness.png)
 
 ### Searching with `ccb` (Chrono Card Browser)
 
-The `ccb` fish function ([ccb.fish](ccb.fish)) runs a live ripgrep search over card file contents with per-card previews. Source it or add it to your fish config. Dependencies: `rg`, `fzf`. Must be run from repo root.
+The `ccb` [fish](https://fishshell.com/) function ([ccb.fish](ccb.fish)) runs a live ripgrep search over card file contents with per-card previews. Source it or add it to your fish config. Dependencies: [`rg`](https://github.com/BurntSushi/ripgrep), [`fzf`](https://github.com/junegunn/fzf). Must be run from repo root.
 
 ```fish
 ccb                          # browse every card
@@ -34,7 +34,7 @@ The prompt is a live ripgrep query over card file contents — every keystroke r
 
 ## Decks
 
-Import a deck code into `decks/` for browsing:
+Import a deck code into `decks/` for browsing ([just](https://github.com/casey/just) required):
 
     just deck CODE NAME
 
@@ -48,4 +48,4 @@ ccb -d decks/my-deck flourish
 ```
 
 ## More
-It's not necessary to browse `cards/` or decks, but see [tools/README.md](tools/README.md) for generating/updating the card browser, the deckcode script, etc.
+See [tools/README.md](tools/README.md) for generating/updating the card browser, the deckcode script, etc. These aren't necessary to browse `cards/` or decks.
