@@ -1,27 +1,23 @@
 #!/usr/bin/env python3
 """Chrono CCG deck code encoder/decoder (client export format, version 5).
 
-Format (reverse-engineered 2026-07-02, validated by byte-exact round trip
-against app.chrono-db.net/api/decks/import):
+Format verified against the C# reference implementation supplied by the
+Chrono devs. Only version 5 is supported; other versions raise ValueError.
 
-    u8      format version (observed: 5)
+    u8      format version (must be 5)
     string  deck name        (varint length + utf-8 bytes)
     string  format           (e.g. "constructed")
-    u16le   diver A
-    u16le   diver B
+    u16le   diver 1 id       (0 = empty slot)
+    u16le   diver 2 id       (0 = empty slot)
     section 1-of cards:  varint n, then n varint deltas (ascending card ids,
                          base 0, delta from previous id)
     section 2-of cards:  same shape
     section other:       varint n, then n (varint delta, varint count) pairs
-                         (3-ofs and any unusual counts)
+                         (counts ≥ 3)
 
-The whole buffer is base32 (RFC 4648, padding stripped).
+The whole buffer is base32 (RFC 4648, A-Z2-7, padding stripped).
 
-CAVEAT: the 1-of section is inferred from position — the reference deck had
-zero 1-ofs, so its placement (before the 2-of section) is untested. Verify
-once with an in-game export of a deck containing a 1-of. Diver field order
-(A vs B -> diver1 vs diver2) is also unconfirmed; the API reported the
-second u16 as diver1 for the reference deck.
+decode() returns {"divers": [...]} with zero-valued slots omitted.
 
 Usage:
     python3 deckcode.py CODE [--cards tools/cards.json]
@@ -97,8 +93,8 @@ def decode(code: str) -> dict:
 
         version = r.u8()
         if version != FORMAT_VERSION:
-            print(f"warning: unknown format version {version}; "
-                  f"parsed on version-5 assumptions", file=sys.stderr)
+            raise ValueError(f"unsupported format version {version} "
+                             f"(only version 5 is implemented)")
 
         name = r.string()
         fmt = r.string()
@@ -111,12 +107,12 @@ def decode(code: str) -> dict:
             cid = 0
             for _ in range(n):
                 cid += r.varint()
-                cards[cid] = implied_count
+                cards[cid] = cards.get(cid, 0) + implied_count
         n = r.varint()
         cid = 0
         for _ in range(n):
             cid += r.varint()
-            cards[cid] = r.varint()
+            cards[cid] = cards.get(cid, 0) + r.varint()
 
         if r.pos != len(r.data):
             print(f"warning: {len(r.data) - r.pos} trailing bytes not consumed",
@@ -126,7 +122,7 @@ def decode(code: str) -> dict:
             "version": version,
             "name": name,
             "format": fmt,
-            "divers": [diver_a, diver_b],
+            "divers": [d for d in (diver_a, diver_b) if d != 0],
             "cards": cards,
         }
     except Exception as exc:
