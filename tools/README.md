@@ -4,18 +4,13 @@ Scripts and supporting code for generating and managing the card and deck browse
 
 ## Setup
 
-The card database lives at `tools/cards.json`.
+The raw card data lives at `tools/cards.json`.
 
 ## Generating the card browser data
 
     just cards
 
-Re-running on unchanged input produces no diff. Output goes to `./cards/` by default (`--out DIR` to change).
-
-## Generating a deck directory
-
-    just deck CODE NAME
-
+Re-running on unchanged input produces no diff. Output goes to `./cards/` by default.
 
 ## Tests
 
