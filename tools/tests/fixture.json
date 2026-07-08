@@ -1,0 +1,494 @@
+[
+  {
+    "id": 33,
+    "name": "Hungry Tyrannosaur",
+    "syndicate": "LIFEBLOOD",
+    "cardType": [
+      "AGENT"
+    ],
+    "cost": 8,
+    "strength": 8,
+    "durability": 7,
+    "text": "Confront. Overpower.\nEnter: Create a Throwdown in hand.\nImmortalize: I've destroyed an Agent.",
+    "cardNumber": 0,
+    "immortalizedCardId": 34,
+    "artistName": "Paul Takahashi",
+    "flavorText": {
+      "text": "The average tyrannosaur will eat 5,233.5 humans over the course of its life...",
+      "author": ""
+    },
+    "formattedTextEffect": "<color=#f6d259>Confront</color>. <color=#f6d259>Overpower</color>.\\n<color=#f6d259>Enter:</color> Create a <color=#a8a8a9>Throwdown</color> in hand.\\n<color=#f6d259>Immortalize:</color> I've destroyed an Agent.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Common",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 34,
+    "name": "Wreck-o Rex",
+    "syndicate": "LIFEBLOOD",
+    "cardType": [
+      "IMMORTALIZED_AGENT"
+    ],
+    "cost": 8,
+    "strength": 9,
+    "durability": 9,
+    "text": "Confront. Overpower. Cleave.\nEnter: Create a Throwdown in hand. ",
+    "cardNumber": 0,
+    "immortalizedCardId": null,
+    "artistName": "Paul Takahashi",
+    "flavorText": {
+      "text": "...and about half that many trash cans.",
+      "author": ""
+    },
+    "formattedTextEffect": "<color=#f6d259>Confront</color>. <color=#f6d259>Overpower</color>. <color=#f6d259>Cleave</color>.\\n<color=#f6d259>Enter:</color> Create a <color=#a8a8a9>Throwdown</color> in hand.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Common",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 21,
+    "name": "Sleepy Druid",
+    "syndicate": "LIFEBLOOD",
+    "cardType": [
+      "AGENT"
+    ],
+    "cost": 3,
+    "strength": 2,
+    "durability": 2,
+    "text": "Activate: (C) An Agent Flourishes.\nImmortalize: I've seen allies Flourish 4+ times.",
+    "cardNumber": 10,
+    "immortalizedCardId": 22,
+    "artistName": "BEIKI",
+    "flavorText": {
+      "text": "Dreaming can take you farther than diving, if you have the skill for it.",
+      "author": ""
+    },
+    "formattedTextEffect": "<color=#f6d259>Activate:</color> <sprite name=\"CC\" size=1.4 toffset=0.1> An Agent <color=#f6d259>Flourishes</color>.\\n<color=#f6d259>Immortalize:</color> I've seen allies <color=#f6d259>Flourish</color> 4+ times.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Rare",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 22,
+    "name": "Xae, Dreamstrider",
+    "syndicate": "LIFEBLOOD",
+    "cardType": [
+      "IMMORTALIZED_AGENT"
+    ],
+    "cost": 3,
+    "strength": 3,
+    "durability": 3,
+    "text": "Activate: (C) An Agent Flourishes or Decays.",
+    "cardNumber": 10,
+    "immortalizedCardId": null,
+    "artistName": "BEIKI",
+    "flavorText": {
+      "text": "She purposefully forgot her Silence upbringing long ago. Now Xae dreams, befriends, destroys, and lives free.",
+      "author": ""
+    },
+    "formattedTextEffect": "<color=#f6d259>Activate:</color> <sprite name=\"CC\" size=1.4 toffset=0.1> An Agent <color=#f6d259>Flourishes</color> or <color=#f6d259>Decays</color>.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Rare",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 197,
+    "name": "Desperate Primordial",
+    "syndicate": "SPLINTERGLEAM",
+    "cardType": [
+      "AGENT"
+    ],
+    "cost": 2,
+    "strength": 4,
+    "durability": 2,
+    "text": "Overpower. Temporary. \nImmortalize: I've seen the enemy Core take damage twice.",
+    "cardNumber": 125,
+    "immortalizedCardId": 198,
+    "artistName": "Xtian.Art",
+    "flavorText": {
+      "text": "You never know how much you want to live until it's time to die.",
+      "author": ""
+    },
+    "formattedTextEffect": "<color=#f6d259>Overpower</color>. <color=#f6d259>Temporary</color>.\\n<color=#f6d259>Immortalize:</color> I've seen the enemy Core take damage twice.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Common",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 198,
+    "name": "Vera, Original Proof",
+    "syndicate": "SPLINTERGLEAM",
+    "cardType": [
+      "IMMORTALIZED_AGENT"
+    ],
+    "cost": 2,
+    "strength": 4,
+    "durability": 3,
+    "text": "Overpower. \nLast Gasp: Shift to Volcanic Rivers.",
+    "cardNumber": 125,
+    "immortalizedCardId": null,
+    "artistName": "Xtian.Art",
+    "flavorText": {
+      "text": "If we can empower even such as this, who can deny our cause?",
+      "author": ""
+    },
+    "formattedTextEffect": "<color=#f6d259>Overpower</color>.\\n<color=#f6d259>Last Gasp:</color> Shift to <color=#85cae9>Volcanic Rivers</color>.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Common",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 51,
+    "name": "Peaceful Synthesizer",
+    "syndicate": "SUNGRACE",
+    "cardType": [
+      "AGENT"
+    ],
+    "cost": 1,
+    "strength": 0,
+    "durability": 1,
+    "text": "Enter: I Deplete. Activate: Gain 1 Reserve Energy.\nImmortalize: I see your Energy Reserve Overflow.",
+    "cardNumber": 0,
+    "immortalizedCardId": 52,
+    "artistName": "Xtian.Art",
+    "flavorText": {
+      "text": "The hum of the solar farms is beauteous harmony to those who know its secrets.",
+      "author": ""
+    },
+    "formattedTextEffect": "<color=#f6d259>Enter:</color> I <color=#f6d259>Deplete. </color><color=#f6d259>Activate</color>: Gain 1 Reserve Energy.\\n<color=#f6d259>Immortalize:</color> I see your Energy Reserve <color=#f6d259>Overflow</color>.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Divergent",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 52,
+    "name": "Sungarden Protector",
+    "syndicate": "SUNGRACE",
+    "cardType": [
+      "IMMORTALIZED_AGENT"
+    ],
+    "cost": 1,
+    "strength": 3,
+    "durability": 3,
+    "text": "",
+    "cardNumber": 32,
+    "immortalizedCardId": null,
+    "artistName": "Xtian.Art",
+    "flavorText": {
+      "text": "And that beauty must be protected.",
+      "author": ""
+    },
+    "formattedTextEffect": "",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Divergent",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 19,
+    "name": "Panicked Refugee",
+    "syndicate": "LIFEBLOOD",
+    "cardType": [
+      "AGENT"
+    ],
+    "cost": 3,
+    "strength": 2,
+    "durability": 2,
+    "text": "Enter: Summon a Wolf.\nImmortalize: Round End: I do not see an allied Wolf in play.\nWhen I Immortalize, Shift to Abundant Growth.",
+    "cardNumber": 0,
+    "immortalizedCardId": 20,
+    "artistName": "Karl Angelo Brito",
+    "flavorText": {
+      "text": "\"I'm not tasty, I swear!\" -Panicked Refugee",
+      "author": ""
+    },
+    "formattedTextEffect": "<color=#f6d259>Enter:</color> Summon a <color=#a8a8a9>Wolf</color>.\r\n<color=#f6d259>Immortalize:</color> Round End: I don't see an allied <color=#a8a8a9>Wolf</color> in play.\r\nWhen I Immortalize, Shift to <color=#85cae9>Abundant Growth</color>.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Common",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 20,
+    "name": "Bronk the Calm",
+    "syndicate": "LIFEBLOOD",
+    "cardType": [
+      "IMMORTALIZED_AGENT"
+    ],
+    "cost": 3,
+    "strength": 3,
+    "durability": 4,
+    "text": "Enter: Summon a Wolf and Shift to Abundant Growth.",
+    "cardNumber": 0,
+    "immortalizedCardId": null,
+    "artistName": "Karl Angelo Brito",
+    "flavorText": {
+      "text": "\"There, friend, nothing to fear.\" -Bronk the Calm",
+      "author": ""
+    },
+    "formattedTextEffect": "<color=#f6d259>Enter:</color> Summon a <color=#a8a8a9>Wolf</color> and Shift to <color=#85cae9>Abundant Growth</color>.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Common",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 327,
+    "name": "Magmatic Teachings",
+    "syndicate": "SPLINTERGLEAM",
+    "cardType": [
+      "ACTION_SLOW"
+    ],
+    "cost": 3,
+    "strength": 0,
+    "durability": 0,
+    "text": "An Immortalized ally strikes an enemy. If that enemy is destroyed, Immortalize your weakest non-Immoralized ally.",
+    "cardNumber": 327,
+    "immortalizedCardId": null,
+    "artistName": "Rhuan Gon",
+    "flavorText": {
+      "text": "\"With these markings, you become one of us.\" - Vera, Original Proof",
+      "author": ""
+    },
+    "formattedTextEffect": "An <color=#f6d259>Immortalized</color> ally strikes an enemy. If that enemy is destroyed,<color=#f6d259> Immortalize </color>your weakest non-<color=#f6d259>Immoralized</color> ally.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Lost",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 15,
+    "name": "Wolf",
+    "syndicate": "LIFEBLOOD",
+    "cardType": [
+      "TOKEN"
+    ],
+    "cost": 2,
+    "strength": 2,
+    "durability": 1,
+    "text": "Confront.",
+    "cardNumber": 0,
+    "immortalizedCardId": null,
+    "artistName": "Arthur Rosa",
+    "flavorText": {
+      "text": "They often make their presence known to their prey before attacking. Emboldened by their pack, they don't fear the lone.",
+      "author": ""
+    },
+    "formattedTextEffect": "<color=#f6d259>Confront</color>.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Token",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 154,
+    "name": "Enlightened Refugee",
+    "syndicate": "SINGULARITY",
+    "cardType": [
+      "AGENT"
+    ],
+    "cost": 3,
+    "strength": 2,
+    "durability": 2,
+    "text": "Enter: Shift to Erudite Beacon. \nImmortalize: I've seen you Draw 6+ cards.",
+    "cardNumber": 0,
+    "immortalizedCardId": 155,
+    "artistName": "Jeffrey Viloria",
+    "flavorText": {
+      "text": "I wondered sometimes, if I would ever see anything beautiful ever again.",
+      "author": ""
+    },
+    "formattedTextEffect": "<color=#f6d259>Enter:</color> Shift to <color=#85cae9>Erudite Beacon</color>.\\n<color=#f6d259>Immortalize:</color> I've seen you <color=#f6d259>Draw</color> 6+ cards.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Divergent",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 155,
+    "name": "Bronk the Guide",
+    "syndicate": "SINGULARITY",
+    "cardType": [
+      "IMMORTALIZED_AGENT"
+    ],
+    "cost": 3,
+    "strength": 3,
+    "durability": 3,
+    "text": "Enter: Shift to Erudite Beacon. \nActivate: Shift to Erudite Beacon.",
+    "cardNumber": 0,
+    "immortalizedCardId": null,
+    "artistName": "Jeffrey Viloria",
+    "flavorText": {
+      "text": "To those who are given light, know that it is your duty to shine.",
+      "author": ""
+    },
+    "formattedTextEffect": "<color=#f6d259>Enter</color> or <color=#f6d259>Activate:</color> Shift to <color=#85cae9>Erudite Beacon</color>.\r\n ",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Divergent",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 335,
+    "name": "Glasswinged Monarch",
+    "syndicate": "LIFEBLOOD",
+    "cardType": [
+      "AGENT"
+    ],
+    "cost": 6,
+    "strength": 4,
+    "durability": 4,
+    "text": "Evasive. Enter or Core Strike: Shift to Abundant Growth. Immortalize: I've seen you Shift twice.",
+    "cardNumber": 335,
+    "immortalizedCardId": 336,
+    "artistName": "Kurt Daryll Ludaes",
+    "flavorText": {
+      "text": "\"When we're up there, remember that we don't rule the skies. You'll hear the thrumming of their wings before you see them.\" - Gritmancer Grant",
+      "author": ""
+    },
+    "formattedTextEffect": "<color=#f6d259>Evasive</color>. Enter or <color=#f6d259>Core Strike:</color> <color=#f6d259>Shift</color> to <color=#85cae9>Abundant Growth</color>. <color=#f6d259>Immortalize:</color> I've seen you <color=#f6d259>Shift</color> twice.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Lost",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 336,
+    "name": "Omeganeura",
+    "syndicate": "LIFEBLOOD",
+    "cardType": [
+      "IMMORTALIZED_AGENT"
+    ],
+    "cost": 6,
+    "strength": 4,
+    "durability": 4,
+    "text": "Evasive. Enter or Core Strike: Shift to Abundant Growth. Allies have +1/+1.",
+    "cardNumber": 336,
+    "immortalizedCardId": null,
+    "artistName": "Kurt Daryll Ludaes",
+    "flavorText": {
+      "text": "In the shimmer of its wings, the ancients claimed to see the shape of the world.",
+      "author": ""
+    },
+    "formattedTextEffect": "<color=#f6d259>Evasive</color>. Enter or <color=#f6d259>Core Strike:</color> <color=#f6d259>Shift</color> to <color=#85cae9>Abundant Growth</color>. Allies have +1/+1.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Lost",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 229,
+    "name": "Bloodlust",
+    "syndicate": "SPLINTERGLEAM",
+    "cardType": [
+      "UNKNOWN"
+    ],
+    "cost": 2,
+    "strength": 0,
+    "durability": 0,
+    "text": "An ally Strikes a damaged Agent.\nCreate a Transient Fueled by Pain in hand.",
+    "cardNumber": 0,
+    "immortalizedCardId": null,
+    "artistName": "Julien Fenoglio",
+    "flavorText": {
+      "text": "Resistance begets pain.",
+      "author": ""
+    },
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Token",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  }
+]
