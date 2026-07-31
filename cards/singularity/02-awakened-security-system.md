@@ -1,7 +1,7 @@
 Awakened Security System         2 | 1/3
 ---
 Activate: Reduce an Agent's Strength by my Strength this round.
-Immortalize: I see 3+ Agents with 0 Strength in play.
+Immortalize: I've seen 3+ Agents reduced to 0 Strength.
 
   ⇒ Wom, Sweet Wom               2 | 1/4
   Activate: Reduce an Agent's Strength by my Strength this round.

@@ -1,4 +1,4 @@
-Not so Fast                      3 | Fast
+Not so Fast                      4 | Fast
 ---
 Revive the strongest ally that was destroyed this round.
 ---

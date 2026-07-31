@@ -1,4 +1,4 @@
-Symbiosis                        6 | Fast
+Symbiosis                        5 | Fast
 ---
 Grant two Agents each other's stats and keywords.
 ---

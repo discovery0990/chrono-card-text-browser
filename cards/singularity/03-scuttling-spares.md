@@ -9,8 +9,8 @@ I can Immortalize out of play.
 
 
 
-  ⇒ Zorp, Unrecyclable           3 | 6/1
+  ⇒ Zorp, Unrecyclable           3 | 5/1
   Overpower.
   Enter: Create a copy of me in hand at next Round Start.
 ---
-Common · Core Set
+Divergent · Core Set

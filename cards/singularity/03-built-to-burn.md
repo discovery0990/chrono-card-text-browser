@@ -1,4 +1,4 @@
-Built to Burn                    5 | Slow
+Built to Burn                    3 | Slow
 ---
 Summon a Temporary exact copy of an ally.
 ---

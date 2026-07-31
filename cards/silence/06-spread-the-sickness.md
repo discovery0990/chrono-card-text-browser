@@ -1,4 +1,4 @@
-Spread the Sickness              5 | Slow
+Spread the Sickness              6 | Slow
 ---
 When an Agent is destroyed this round, Agents Decay.
 Agents Decay.

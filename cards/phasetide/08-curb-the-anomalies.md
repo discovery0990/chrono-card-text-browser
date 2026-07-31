@@ -1,4 +1,4 @@
-Curb the Anomalies               6 | Immediate
+Curb the Anomalies               8 | Immediate
 ---
 I cost 1 less if you see The One True Timeline.
 Mute all Agents this round.

@@ -1,6 +1,6 @@
 Pack Tactics                     3 | Slow
 ---
-Summon 2 Wolves.
+Summon a Wolf twice.
 If you see Abundant Growth, allied Wolves Flourish.
 ---
 Divergent · Core Set
