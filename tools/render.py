@@ -21,13 +21,23 @@ NAME_COL = 33
 # Prefix on the immortalized-form embed line (2 spaces + arrow + space = 4 cols).
 EMBED_PREFIX = "  ⇒ "
 
+# Windows reserves these as device names, even with an extension (e.g. "con.md").
+_WINDOWS_RESERVED_NAMES = {
+    "con", "prn", "aux", "nul",
+    *(f"com{d}" for d in "123456789"),
+    *(f"lpt{d}" for d in "123456789"),
+}
+
 
 def slugify(name: str) -> str:
     s = unicodedata.normalize("NFD", name.lower())
     s = "".join(c for c in s if unicodedata.category(c) != "Mn")
     s = re.sub(r"['']", "", s)
     s = re.sub(r"[^a-z0-9]+", "-", s)
-    return s.strip("-")
+    s = s.strip("-")
+    if s in _WINDOWS_RESERVED_NAMES:
+        s += "-card"
+    return s
 
 
 def clean_text(text: str) -> str:

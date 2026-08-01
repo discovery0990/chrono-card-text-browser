@@ -6,6 +6,10 @@ Browse all cards or import a deck and browse just that. Also includes a deck cod
 
 Data provided by [Chrono DB](https://www.chrono-db.net/).
 
+## Platform support
+
+Built for Linux/macOS terminals (yazi, fish, ripgrep, fzf). **On Windows, run it under [WSL](https://learn.microsoft.com/en-us/windows/wsl/install)** — a real Linux environment inside Windows — rather than native PowerShell/cmd; everything below assumes a Unix-like shell and filesystem.
+
 ## Browsing
 
 Open `cards/` in [yazi](https://github.com/sxyazi/yazi) to browse all cards by syndicate (directory), sorted by cost (filename prefix). Open `decks/` to browse saved deck directories.
