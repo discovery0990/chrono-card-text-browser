@@ -1,10 +1,10 @@
-Panicked Refugee                 3 | 2/2
+Panicked Refugee                 3 | 2/3
 ---
 Enter: Summon a Wolf.
 Immortalize: Round End: I don't see an allied Wolf in play.
 When I Immortalize, Shift to Abundant Growth.
 
-  ⇒ Bronk the Calm               3 | 3/4
+  ⇒ Bronk the Calm               3 | 4/4
   Enter: Summon a Wolf and Shift to Abundant Growth.
 ---
 Common · Core Set

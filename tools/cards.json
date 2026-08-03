@@ -65,9 +65,9 @@
       "AGENT"
     ],
     "cost": 1,
-    "strength": 0,
+    "strength": 2,
     "durability": 1,
-    "text": "Activate: The next ally that enters play this round  Flourishes.\nImmortalize: I've seen allies Flourish 4+ times.",
+    "text": "Enter: The next ally that enters play Flourishes.\nImmortalize: I've seen allies Flourish 4+ times.",
     "cardNumber": 0,
     "immortalizedCardId": 4,
     "artistName": "BEIKI",
@@ -75,7 +75,7 @@
       "text": "\"Never fear little ones, I'm your mother now.\" -Arra, Saurian Broodmother",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Activate:</color> The next ally that enters play this round  <color=#f6d259>Flourishes</color>.\\n<color=#f6d259>Immortalize:</color> I've seen allies <color=#f6d259>Flourish</color> 4+ times.",
+    "formattedTextEffect": "<color=#f6d259>Enter:</color> The next ally that enters play <color=#f6d259>Flourishes</color>.\\n<color=#f6d259>Immortalize:</color> I've seen allies <color=#f6d259>Flourish</color> 4+ times.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -94,9 +94,9 @@
       "IMMORTALIZED_AGENT"
     ],
     "cost": 1,
-    "strength": 1,
+    "strength": 3,
     "durability": 2,
-    "text": "Activate: The next ally that enters play this round Flourishes.\r\nThe first time each round another ally Flourishes, I Flourish.",
+    "text": "Activate: The next ally that enters play Flourishes.\r\nThe first time each round another ally Flourishes, I Flourish.",
     "cardNumber": 0,
     "immortalizedCardId": null,
     "artistName": "BEIKI",
@@ -104,7 +104,7 @@
       "text": "\"Ahahha, yes, of course you can have Sungrace for lunch.\" -Arra, Saurian Broodmother",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Activate:</color> The next ally that enters play this round <color=#f6d259>Flourishes</color>.\r\nThe first time each round another ally <color=#f6d259>Flourishes</color>, I <color=#f6d259>Flourish</color>.",
+    "formattedTextEffect": "<color=#f6d259>Activate:</color> The next ally that enters play <color=#f6d259>Flourishes</color>.\r\nThe first time each round another ally <color=#f6d259>Flourishes</color>, I <color=#f6d259>Flourish</color>.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -385,7 +385,7 @@
     ],
     "cost": 2,
     "strength": 1,
-    "durability": 2,
+    "durability": 1,
     "text": "Enter: Summon a Wolf.\nImmortalize: Round End: I do not see an allied Wolf in Play.",
     "cardNumber": 0,
     "immortalizedCardId": 16,
@@ -443,7 +443,7 @@
     ],
     "cost": 2,
     "strength": 3,
-    "durability": 3,
+    "durability": 2,
     "text": "Confront.",
     "cardNumber": 0,
     "immortalizedCardId": null,
@@ -530,7 +530,7 @@
     ],
     "cost": 3,
     "strength": 2,
-    "durability": 2,
+    "durability": 3,
     "text": "Enter: Summon a Wolf.\r\nImmortalize: Round End: I don't see an allied Wolf in play.\r\nWhen I Immortalize, Shift to Abundant Growth.",
     "cardNumber": 0,
     "immortalizedCardId": 20,
@@ -558,7 +558,7 @@
       "IMMORTALIZED_AGENT"
     ],
     "cost": 3,
-    "strength": 3,
+    "strength": 4,
     "durability": 4,
     "text": "Enter: Summon a Wolf and Shift to Abundant Growth.",
     "cardNumber": 0,
@@ -879,7 +879,7 @@
     "cost": 6,
     "strength": 7,
     "durability": 5,
-    "text": "Enter or when I Immortalize: Give the strongest enemy Exposed and set its stats to 1/1 this round.\r\nImmortalize: I've destroyed an Agent.",
+    "text": "Enter or when I Immortalize: Give the Strongest enemy Exposed and set its stats to 1/1 this round.\r\nImmortalize: I've destroyed an Agent.",
     "cardNumber": 0,
     "immortalizedCardId": 32,
     "artistName": "Karl Angelo Brito",
@@ -887,7 +887,7 @@
       "text": "Nothing sweeter than the scent of fear.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Enter</color> or when I <color=#f6d259>Immortalize</color>: Give the strongest enemy <color=#f6d259>Exposed</color> and set its stats to 1/1 this round.\r\n<color=#f6d259>Immortalize:</color> I've destroyed an Agent.",
+    "formattedTextEffect": "<color=#f6d259>Enter</color> or when I <color=#f6d259>Immortalize</color>: Give the Strongest enemy <color=#f6d259>Exposed</color> and set its stats to 1/1 this round.\r\n<color=#f6d259>Immortalize:</color> I've destroyed an Agent.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -908,7 +908,7 @@
     "cost": 6,
     "strength": 8,
     "durability": 6,
-    "text": "Enter or when I destroy an Agent: Give the strongest enemy Exposed and set its stats to 1/1 this round.",
+    "text": "Enter or when I destroy an Agent: Give the Strongest enemy Exposed and set its stats to 1/1 this round.",
     "cardNumber": 0,
     "immortalizedCardId": null,
     "artistName": "Karl Angelo Brito",
@@ -916,7 +916,7 @@
       "text": "Spend enough time with the dinosaurs, someday you may wake up as one.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Enter</color> or when I destroy an Agent: Give the strongest enemy <color=#f6d259>Exposed</color> and set its stats to 1/1 this round.",
+    "formattedTextEffect": "<color=#f6d259>Enter</color> or when I destroy an Agent: Give the Strongest enemy <color=#f6d259>Exposed</color> and set its stats to 1/1 this round.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -1401,7 +1401,7 @@
     "cost": 1,
     "strength": 2,
     "durability": 1,
-    "text": "Last Gasp: Shift to Star Siphon. \nImmortalize: I see your Energy Reserve Overflow. ",
+    "text": "Last Gasp: Shift to Star Siphon.\nImmortalize: I see you Overflow.",
     "cardNumber": 31,
     "immortalizedCardId": 50,
     "artistName": "Arthur Rosa",
@@ -1409,7 +1409,7 @@
       "text": "We are all ash on the wind, it's just a matter of scheduling.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Last Gasp:</color> Shift to <color=#85cae9>Star Siphon</color>.\\n<color=#f6d259>Immortalize:</color> I see your Energy Reserve <color=#f6d259>Overflow</color>.",
+    "formattedTextEffect": "<color=#f6d259>Last Gasp:</color> Shift to <color=#85cae9>Star Siphon</color>.\\n<color=#f6d259>Immortalize:</color> I see you <color=#f6d259>Overflow</color>.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -1633,7 +1633,7 @@
     "cost": 2,
     "strength": 0,
     "durability": 1,
-    "text": "Round Start: I Flourish once for each Reserve Energy you have.\nImmortalize: I see you Overflow.",
+    "text": "Round Start: I Flourish once for each Reserve Energy you have.\nImmortalize: I see you Overflow. When I Immortalize, grant me a random positive keyword.",
     "cardNumber": 0,
     "immortalizedCardId": 58,
     "artistName": "Bi Pi",
@@ -1641,7 +1641,7 @@
       "text": "Everything we take for granted today was once seen as impossible.",
       "author": ""
     },
-    "formattedTextEffect": "Round Start: I <color=#f6d259>Flourish</color> once for each Reserve Energy you have.\\n<color=#f6d259>Immortalize:</color> I see you <color=#f6d259>Overflow</color>.",
+    "formattedTextEffect": "Round Start: I <color=#f6d259>Flourish</color> once for each Reserve Energy you have.\\n<color=#f6d259>Immortalize:</color> I see you <color=#f6d259>Overflow</color>. When I <color=#f6d259>Immortalize</color>, grant me a random positive keyword.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -2126,7 +2126,7 @@
     "cost": 5,
     "strength": 7,
     "durability": 6,
-    "text": "Delay. Overpower. Confront. ",
+    "text": "Overpower. Confront",
     "cardNumber": 0,
     "immortalizedCardId": null,
     "artistName": "Arthur Rosa",
@@ -2134,7 +2134,7 @@
       "text": "\"...Lest you end up in pieces!\" -Grand Admiral Khaela",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Delay</color>. <color=#f6d259>Overpower</color>. <color=#f6d259>Confront</color>",
+    "formattedTextEffect": "<color=#f6d259>Overpower</color>. <color=#f6d259>Confront</color>",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -2329,7 +2329,7 @@
     "cost": 8,
     "strength": 2,
     "durability": 2,
-    "text": "Evasive.\n Enter: Flourish copies of me everywhere, then create a copy of me in hand at Round End.\nImmortalize: I see Paradox.",
+    "text": "Evasive.\n Enter: Flourish copies of me EVERYWHERE, then create a copy of me in hand at Round End.\nImmortalize: I see Paradox.",
     "cardNumber": 0,
     "immortalizedCardId": 82,
     "artistName": "Karl Angelo Brito",
@@ -2337,7 +2337,7 @@
       "text": "“Entropy is not failure. It is permission.\nThe universe does not collapse. It unfolds.\nWe do not fight the decay—we harvest it.\nEvery dying star, every fading signal, every disassembled atom becomes fuel.\n\nWe are not regressors. We are composers.\nThermodynamics is our scripture.\nFlux is our hymn.”\n\n—Sungrace Directive VI, ‘On the Ethics of Dissolution’\n",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Evasive</color>.\\n<color=#f6d259> Enter:</color> <color=#f6d259>Flourish</color> copies of me everywhere, then create a copy of me in hand at Round End.\\n<color=#f6d259>Immortalize:</color> I see <color=#f6d259>Paradox</color>.",
+    "formattedTextEffect": "<color=#f6d259>Evasive</color>.\\n<color=#f6d259> Enter:</color> <color=#f6d259>Flourish</color> copies of me EVERYWHERE, then create a copy of me in hand at Round End.\\n<color=#f6d259>Immortalize:</color> I see <color=#f6d259>Paradox</color>.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -2358,7 +2358,7 @@
     "cost": 8,
     "strength": 3,
     "durability": 3,
-    "text": "Evasive. Overpower.\nEnter: Flourish copies of me everywhere, then create a copy of me in hand and reduce the cost of allied created cards everywhere by 1 at Round End (Minimum 1).",
+    "text": "Evasive. Overpower.\nEnter: Flourish copies of me EVERYWHERE, then create a copy of me in hand and reduce the cost of allied created cards everywhere by 1 at Round End (Minimum 1).",
     "cardNumber": 0,
     "immortalizedCardId": null,
     "artistName": "Karl Angelo Brito",
@@ -2366,7 +2366,7 @@
       "text": "Even the smallest sparks can sow the greatest power.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Evasive</color>. <color=#f6d259>Overpower</color>.\\n<color=#f6d259>Enter:</color> <color=#f6d259>Flourish</color> copies of me everywhere, then create a copy of me in hand and reduce the cost of allied created cards everywhere by 1 at Round End (Minimum 1).",
+    "formattedTextEffect": "<color=#f6d259>Evasive</color>. <color=#f6d259>Overpower</color>.\\n<color=#f6d259>Enter:</color> <color=#f6d259>Flourish</color> copies of me EVERYWHERE, then create a copy of me in hand and reduce the cost of allied created cards everywhere by 1 at Round End (Minimum 1).",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -2946,7 +2946,7 @@
       "text": "Who better to fetch the scrolls?",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Enter:</color> <color=#f6d259>Draw</color> a random 1, 2, or 3 cost Action.\r\n<color=#f6d259>Immortalize:</color> I've seen you play 3+ Actions.",
+    "formattedTextEffect": "<color=#f6d259>Enter:</color> Draw a random 1, 2, or 3 cost Action.\r\n<color=#f6d259>Immortalize:</color> I've seen you play 3+ Actions.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -2975,7 +2975,7 @@
       "text": "\"She seems to have stopped bothering to use her mouth to bring requested items, curious...\" Scriveners note",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Enter</color> and <color=#f6d259>Last Gasp:</color> <color=#f6d259>Draw</color> a random 1, 2, or 3 cost Action.",
+    "formattedTextEffect": "<color=#f6d259>Enter</color> and <color=#f6d259>Last Gasp:</color> Draw a random 1, 2, or 3 cost Action.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -3228,7 +3228,7 @@
     "cost": 2,
     "strength": 3,
     "durability": 1,
-    "text": "Play: (C) Deplete an enemy. \nImmortalize: I've seen Agents Deplete 4+ times.",
+    "text": "Play: [icon] Deplete an enemy.\nImmortalize: I've seen you Deplete Agents 4+ times.",
     "cardNumber": 68,
     "immortalizedCardId": 113,
     "artistName": "Paul Takahashi",
@@ -3236,7 +3236,7 @@
       "text": "Some powerful Silence seek solitude in wild places, and over time their domains are the source of many culture's myths and legends.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Play:</color> <sprite name=\"CC\" size=1.4 toffset=0.1> <color=#f6d259>Deplete</color> an enemy.\\n<color=#f6d259>Immortalize:</color> I've seen Agents <color=#f6d259>Deplete</color> 4+ times.",
+    "formattedTextEffect": "<color=#f6d259>Play:</color> <sprite name=\"CC\" size=1.4 toffset=0.1> <color=#f6d259>Deplete</color> an enemy.\\n<color=#f6d259>Immortalize:</color> I've seen you <color=#f6d259>Deplete</color> Agents 4+ times.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -3286,7 +3286,7 @@
     "cost": 4,
     "strength": 2,
     "durability": 2,
-    "text": "Activate: (C) Deal 2 to a random enemy. \nImmortalize: I've seen Agents Deplete 4+ times.",
+    "text": "Activate: [icon] Deal 2 to a random enemy.\nImmortalize: I've seen you Deplete Agents 4+ times.",
     "cardNumber": 0,
     "immortalizedCardId": 115,
     "artistName": "Paul Takahashi",
@@ -3294,7 +3294,7 @@
       "text": "Even the silence cannot stop the music.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Activate:</color> <sprite name=\"CC\" size=1.4 toffset=0.1> Deal 2 to a random enemy.\\n<color=#f6d259>Immortalize:</color> I've seen Agents <color=#f6d259>Deplete</color> 4+ times.",
+    "formattedTextEffect": "<color=#f6d259>Activate:</color> <sprite name=\"CC\" size=1.4 toffset=0.1> Deal 2 to a random enemy.\\n<color=#f6d259>Immortalize:</color> I've seen you <color=#f6d259>Deplete</color> Agents 4+ times.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -3344,7 +3344,7 @@
     "cost": 4,
     "strength": 1,
     "durability": 3,
-    "text": "Evasive. \nActivate: Grant an Action in hand Transient, then create an exact copy of it in hand. \nImmortalize: I've seen Agents Deplete 4+ times.",
+    "text": "Evasive.\nActivate: Grant an Action in hand Transient, then create an exact copy of it in hand.\nImmortalize: I've seen you Deplete Agents 4+ times.",
     "cardNumber": 0,
     "immortalizedCardId": 117,
     "artistName": "Bi Pi",
@@ -3352,7 +3352,7 @@
       "text": "The inquisitive and playful mind of a young kitten can often be a nice distraction from the barrage of noise Silence acolytes deal with.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Evasive</color>.\\n<color=#f6d259>Activate:</color> Grant an Action in hand <color=#f6d259>Transient</color>, then create an exact copy of it in hand.\\n<color=#f6d259>Immortalize:</color> I've seen Agents <color=#f6d259>Deplete</color> 4+ times.",
+    "formattedTextEffect": "<color=#f6d259>Evasive</color>.\\n<color=#f6d259>Activate:</color> Grant an Action in hand <color=#f6d259>Transient</color>, then create an exact copy of it in hand.\\n<color=#f6d259>Immortalize:</color> I've seen you <color=#f6d259>Deplete</color> Agents 4+ times.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -3402,7 +3402,7 @@
     "cost": 3,
     "strength": 1,
     "durability": 3,
-    "text": "Each time an Agent Depletes, I Flourish. \nImmortalize: I've seen Agents Deplete 4+ times.",
+    "text": "When you Deplete an agent, I Flourish.\nImmortalize: I've seen you Deplete Agents 4+ times.",
     "cardNumber": 71,
     "immortalizedCardId": 119,
     "artistName": "Rhuan Gon",
@@ -3410,7 +3410,7 @@
       "text": "Lost memories leak into the aether and sink to the bottom for thoughtless scavengers to consume.",
       "author": ""
     },
-    "formattedTextEffect": "Each time an Agent <color=#f6d259>Depletes</color>, I <color=#f6d259>Flourish</color>.\\n<color=#f6d259>Immortalize:</color> I've seen Agents <color=#f6d259>Deplete</color> 4+ times.",
+    "formattedTextEffect": "When you <color=#f6d259>Deplete</color> an agent, I <color=#f6d259>Flourish</color>.\\n<color=#f6d259>Immortalize:</color> I've seen you <color=#f6d259>Deplete</color> Agents 4+ times.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -3431,7 +3431,7 @@
     "cost": 3,
     "strength": 1,
     "durability": 3,
-    "text": "Overpower. \nEach time an Agent Depletes, I Flourish. ",
+    "text": "Overpower\r\nWhen you Deplete an Agent, I Flourish.",
     "cardNumber": 71,
     "immortalizedCardId": null,
     "artistName": "Rhuan Gon",
@@ -3439,7 +3439,7 @@
       "text": "There have been a lot of forgotten passwords lately.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Overpower</color>.\\nEach time an Agent <color=#f6d259>Depletes</color>, I <color=#f6d259>Flourish</color>.",
+    "formattedTextEffect": "<color=#f6d259>Overpower</color>\r\nWhen you <color=#f6d259>Deplete</color> an Agent, I <color=#f6d259>Flourish</color>.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -3787,7 +3787,7 @@
       "text": "What will you do, when there are no limits left to break, when all you are is a mind unbound? Then, will there be peace?",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Draw</color> 2. You may return any of those cards to the bottom of your deck. <color=#f6d259>Sacrifice</color> 2 for each card kept.",
+    "formattedTextEffect": "Draw 2. You may return any of those cards to the bottom of your deck. <color=#f6d259>Sacrifice</color> 2 for each card kept.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -3866,7 +3866,7 @@
     "cost": 3,
     "strength": 0,
     "durability": 0,
-    "text": "An enemy Decays twice, or an ally Decays twice to Draw 2.",
+    "text": "An enemy Decays twice, or an ally Decays twice to draw 2.",
     "cardNumber": 0,
     "immortalizedCardId": null,
     "artistName": "Alec Aldeva",
@@ -3874,7 +3874,7 @@
       "text": "If you can't prove it ever happened, it probably didn't.",
       "author": ""
     },
-    "formattedTextEffect": "An enemy <color=#f6d259>Decays</color> twice, or an ally <color=#f6d259>Decays</color> twice to Draw 2.",
+    "formattedTextEffect": "An enemy <color=#f6d259>Decays</color> twice, or an ally <color=#f6d259>Decays</color> twice to draw 2.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -3990,7 +3990,7 @@
       "text": "All knowledge is contained somewhere in the timestream, you just have to know when to look.",
       "author": ""
     },
-    "formattedTextEffect": "If you have 1 or less Agents, I cost 2 less.\\n<color=#f6d259>Draw</color> 2 Actions.",
+    "formattedTextEffect": "If you have 1 or less Agents, I cost 2 less.\\nDraw 2 Actions.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -4164,7 +4164,7 @@
       "text": "Its about the size of the belief in the robot.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Play:</color> <color=#f6d259>Discard</color> 1 to <color=#f6d259>Draw</color> 1.\\n<color=#f6d259>Immortalize:</color> I've seen you <color=#f6d259>Draw</color> 6+ cards.",
+    "formattedTextEffect": "<color=#f6d259>Play:</color> Discard 1 to Draw 1.\\n<color=#f6d259>Immortalize:</color> I've seen you draw 6+ cards.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -4193,7 +4193,7 @@
       "text": "The humblest scraps may one day form a civilization.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Play:</color> <color=#f6d259>Discard</color> 1 to <color=#f6d259>Draw</color> 1.\\nRound Start: <color=#f6d259>Draw</color> 1.",
+    "formattedTextEffect": "<color=#f6d259>Play:</color> Discard 1 to Draw 1.\\nRound Start: Draw 1.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -4280,7 +4280,7 @@
       "text": "The fact that the scrap bots don't particulary *want* to be fetched is quite beside the point.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Enter:</color> <color=#f6d259>Draw</color> a 1 cost Agent.\r\n<color=#f6d259>Immortalize:</color> Round End: I see a 1 cost ally in play.",
+    "formattedTextEffect": "<color=#f6d259>Enter:</color> Draw a 1 cost Agent.\r\n<color=#f6d259>Immortalize:</color> Round End: I see a 1 cost ally in play.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -4309,7 +4309,7 @@
       "text": "\"<s>Bot of Outstanding Friendliness</s>\n<s>Best-Optimized Omni-Fetcher</s>\n<s>Battery Operated Olfactory Friend</s>\"\n -Scribbled on an armor panel in crayon.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Enter:</color> <color=#f6d259>Draw</color> a 1 cost Agent.\r\nRound End: If I don't see a 1 cost ally in play, <color=#f6d259>Draw</color> a 1 cost Agent.",
+    "formattedTextEffect": "<color=#f6d259>Enter:</color> Draw a 1 cost Agent.\r\nRound End: If I don't see a 1 cost ally in play, draw a 1 cost Agent.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -4330,7 +4330,7 @@
     "cost": 2,
     "strength": 2,
     "durability": 1,
-    "text": "Temporary. \nLast Gasp: The next time you Shift, revive me and grant copies of me *everywhere* +1/+0. \nImmortalize: I have 4+ Strength.",
+    "text": "Temporary.\r\nLast Gasp: The next time you Shift, revive me and grant copies of me EVERYWHERE +1/+0.\r\nImmortalize: I have 4+ Strength.",
     "cardNumber": 0,
     "immortalizedCardId": 151,
     "artistName": "Arthur Rosa",
@@ -4338,7 +4338,7 @@
       "text": "There is no timeline where the mirror does not break. ",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Temporary</color>.\r\n<color=#f6d259>Last Gasp:</color> The next time you Shift, revive me and grant copies of me everywhere +1/+0.\r\n<color=#f6d259>Immortalize:</color> I have 4+ Strength.",
+    "formattedTextEffect": "<color=#f6d259>Temporary</color>.\r\n<color=#f6d259>Last Gasp:</color> The next time you Shift, revive me and grant copies of me EVERYWHERE +1/+0.\r\n<color=#f6d259>Immortalize:</color> I have 4+ Strength.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -4359,7 +4359,7 @@
     "cost": 2,
     "strength": 2,
     "durability": 1,
-    "text": "Temporary. \nStrike: Create a Transient copy of me in hand. \nLast Gasp: The next time you Shift, revive me and grant copies of me *everywhere* +1/+0. ",
+    "text": "Temporary.\r\nStrike: Create a Transient copy of me in hand.\r\nLast Gasp: The next time you Shift, revive me and grant copies of me EVERYWHERE +1/+0.",
     "cardNumber": 0,
     "immortalizedCardId": null,
     "artistName": "Arthur Rosa",
@@ -4367,7 +4367,7 @@
       "text": "When healing is impossible, you learn to make a life in between the cracks.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Temporary</color>.\r\nStrike: Create a <color=#f6d259>Transient</color> copy of me in hand.\r\n<color=#f6d259>Last Gasp:</color> The next time you Shift, revive me and grant copies of me everywhere +1/+0.",
+    "formattedTextEffect": "<color=#f6d259>Temporary</color>.\r\nStrike: Create a <color=#f6d259>Transient</color> copy of me in hand.\r\n<color=#f6d259>Last Gasp:</color> The next time you Shift, revive me and grant copies of me EVERYWHERE +1/+0.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -4454,7 +4454,7 @@
       "text": "I wondered sometimes, if I would ever see anything beautiful ever again.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Enter:</color> Shift to <color=#85cae9>Erudite Beacon</color>.\\n<color=#f6d259>Immortalize:</color> I've seen you <color=#f6d259>Draw</color> 6+ cards.",
+    "formattedTextEffect": "<color=#f6d259>Enter:</color> Shift to <color=#85cae9>Erudite Beacon</color>.\\n<color=#f6d259>Immortalize:</color> I've seen you draw 6+ cards.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -4562,7 +4562,7 @@
     "cost": 3,
     "strength": 3,
     "durability": 1,
-    "text": "When I am Discarded: Create a copy of me in hand. \nImmortalize: I see 2+ Scuttling Spares in your Graveyard.\nI can Immortalize out of play.\n\n\n\n\n",
+    "text": "When I am discarded: Create a copy of me in hand.\r\nImmortalize: I see 2+ Scuttling Spares in your Graveyard.\r\nI can Immortalize out of play.",
     "cardNumber": 0,
     "immortalizedCardId": 159,
     "artistName": "Bi Pi",
@@ -4570,7 +4570,7 @@
       "text": "\"Scan, search, scan, search, many spare parts we find. Rip, tear, rip, tear, our fallen found offline.\" -Singularity Work Song, part 1",
       "author": ""
     },
-    "formattedTextEffect": "When I am <color=#f6d259>Discarded:</color> Create a copy of me in hand.\r\n<color=#f6d259>Immortalize:</color> I see 2+ <color=#a8a8a9>Scuttling Spares</color> in your Graveyard.\r\nI can Immortalize out of play.",
+    "formattedTextEffect": "When I am discarded: Create a copy of me in hand.\r\n<color=#f6d259>Immortalize:</color> I see 2+ <color=#a8a8a9>Scuttling Spares</color> in your Graveyard.\r\nI can Immortalize out of play.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -4677,7 +4677,7 @@
     ],
     "cost": 4,
     "strength": 1,
-    "durability": 3,
+    "durability": 4,
     "text": "Play: (C) Transform me into an exact copy of a non-Immortalized Agent, but I retain the following text:\nImmortalize: Round End: I see Paradox. ",
     "cardNumber": 100,
     "immortalizedCardId": 163,
@@ -4744,7 +4744,7 @@
       "text": "Some bots found uses for the discarded trash left behind by humans. Usually the answer was to turn it into more bots.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Play:</color> <color=#f6d259>Discard</color> 1 to heal your Core equal to that card's current cost (Max 5).\r\n<color=#f6d259>Immortalize:</color> You've <color=#f6d259>Discarded</color> 3+ times.",
+    "formattedTextEffect": "<color=#f6d259>Play:</color> Discard 1 to heal your Core equal to that card's current cost (Max 5).\r\n<color=#f6d259>Immortalize:</color> You've discarded 3+ times.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -4773,7 +4773,7 @@
       "text": "Rocks, mountains, grass, dirt. Nature's first draft.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Play:</color> <color=#f6d259>Discard</color> 1 to heal your Core equal to that card's current cost (Max 5) and Shift to <color=#85cae9>Erudite Beacon</color>. ",
+    "formattedTextEffect": "<color=#f6d259>Play:</color> Discard 1 to heal your Core equal to that card's current cost (Max 5) and Shift to <color=#85cae9>Erudite Beacon</color>. ",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -4802,7 +4802,7 @@
       "text": "Every forgotten gear and gizmo, waiting only to be looked at by the right pair of eyes.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Play:</color> <color=#f6d259>Discard</color> 1.\r\nWhen you <color=#f6d259>Discard:</color> grant me a random positive keyword.\r\n<color=#f6d259>Immortalize:</color> You've <color=#f6d259>Discarded</color> 3+ times.",
+    "formattedTextEffect": "<color=#f6d259>Play:</color> Discard 1.\r\nWhen you <color=#f6d259>Discard:</color> grant me a random positive keyword.\r\n<color=#f6d259>Immortalize:</color> You've discarded 3+ times.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -4831,7 +4831,7 @@
       "text": "Luckily, extra eyes were the first thing on Ziv's list.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Play:</color> <color=#f6d259>Discard</color> 1.\r\nWhen you <color=#f6d259>Discard:</color> I <color=#f6d259>Flourish</color> and grant me a random positive keyword.",
+    "formattedTextEffect": "<color=#f6d259>Play:</color> Discard 1.\r\nWhen you <color=#f6d259>Discard:</color> I <color=#f6d259>Flourish</color> and grant me a random positive keyword.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -4860,7 +4860,7 @@
       "text": "\"Singularity? Feh, confused old bird. Sometimes an amalgam's got to make its own way.\" -Mr. E",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Play:</color> <color=#f6d259>Discard</color> up to 3.\r\nWhen you <color=#f6d259>Discard:</color> <color=#f6d259>Draw</color> 1 and reduce its cost by 1. (Minimum 1)\r\n<color=#f6d259>Immortalize:</color> I've seen you <color=#f6d259>Draw</color> 6+ cards.",
+    "formattedTextEffect": "<color=#f6d259>Play:</color> Discard up to 3.\r\nWhen you <color=#f6d259>Discard:</color> Draw 1 and reduce its cost by 1. (Minimum 1)\r\n<color=#f6d259>Immortalize:</color> I've seen you draw 6+ cards.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -4889,7 +4889,7 @@
       "text": "\"The \"E\" is for explosive.\" -Mr. E",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Play:</color> <color=#f6d259>Discard</color> up to 3.\r\nWhen you <color=#f6d259>Discard:</color> <color=#f6d259>Draw</color> 1 and reduce its cost by 2. (Minimum 1)",
+    "formattedTextEffect": "<color=#f6d259>Play:</color> Discard up to 3.\r\nWhen you <color=#f6d259>Discard:</color> Draw 1 and reduce its cost by 2. (Minimum 1)",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -4976,7 +4976,7 @@
       "text": "Heavy-METAL!",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Discard</color> 1 to play.\\nDeal 2 to an Agent or Core.",
+    "formattedTextEffect": "Discard 1 to play.\\nDeal 2 to an Agent or Core.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -4997,7 +4997,7 @@
     "cost": 1,
     "strength": 0,
     "durability": 0,
-    "text": "Play or Discard: Summon a Pocket Scout.",
+    "text": "Play or discard: Summon a Pocket Scout.",
     "cardNumber": 0,
     "immortalizedCardId": null,
     "artistName": "um_predo",
@@ -5005,7 +5005,7 @@
       "text": "These guys have been made with soft, round features in an attempt to appear friendly for any potential contact. They also happen to be aerodynamic.",
       "author": ""
     },
-    "formattedTextEffect": "When I'm played or <color=#f6d259>Discarded:</color> Summon a <color=#a8a8a9>Pocket Scout</color>.",
+    "formattedTextEffect": "When I'm played or <color=#f6d259>discarded:</color> Summon a <color=#a8a8a9>Pocket Scout</color>.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -5063,7 +5063,7 @@
       "text": "0LL1-E watches as piece by piece, bolt by bolt they are disassembled by others like them. They do not know pain. They do not know fear. They will no longer be.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Discard</color> 2 to play.\\n<color=#f6d259>Draw</color> 2.\\n<color=#f6d259>Sacrifice</color> 3: Instead, <color=#f6d259>Discard</color> 3 to play. <color=#f6d259>Draw</color> 3.",
+    "formattedTextEffect": "Discard 2 to play.\\nDraw 2.\\n<color=#f6d259>Sacrifice</color> 3: Instead, discard 3 to play. Draw 3.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -5092,7 +5092,7 @@
       "text": "Your time. Your place. Your self. All simply notes on a line for Singularity to play.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Discard</color> 1 to play. \nChoose an Ally.\r\nCreate a <color=#f6d259>Transient</color> copy in hand  now and at next Round Start.",
+    "formattedTextEffect": "Discard 1 to play. \nChoose an Ally.\r\nCreate a <color=#f6d259>Transient</color> copy in hand  now and at next Round Start.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -5150,7 +5150,7 @@
       "text": "Necessity is the mother of cannibalism.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Discard</color> 1 to play.\\nDeal 4 to an Agent.",
+    "formattedTextEffect": "Discard 1 to play.\\nDeal 4 to an Agent.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -5179,7 +5179,7 @@
       "text": "Greetings organic life form. It is now time to begin your day.",
       "author": ""
     },
-    "formattedTextEffect": "Deal 1 to an Agent or Core.\\n<color=#f6d259>Draw</color> 1.",
+    "formattedTextEffect": "Deal 1 to an Agent or Core.\\nDraw 1.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -5229,7 +5229,7 @@
     "cost": 3,
     "strength": 0,
     "durability": 0,
-    "text": "Discard up to 3 to play.\nSummon that many Pocket Scouts.\nWhen I am discarded create a Scouter Round in hand.",
+    "text": "Discard up to 3. \nSummon that many Pocket Scouts. \nWhen I am discarded: Create a Scouter Round in hand.",
     "cardNumber": 113,
     "immortalizedCardId": null,
     "artistName": "Bi Pi",
@@ -5237,7 +5237,7 @@
       "text": "\"I've got a pocket got a pocket full of...robots.\"",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Discard</color> up to 3. \\nSummon that many <color=#a8a8a9>Pocket Scouts</color>. \\nWhen I am <color=#f6d259>Discarded</color>: Create a <color=#a8a8a9>Scouter Round</color> in hand.",
+    "formattedTextEffect": "Discard up to 3. \\nSummon that many <color=#a8a8a9>Pocket Scouts</color>. \\nWhen I am discarded: Create a <color=#a8a8a9>Scouter Round</color> in hand.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -5295,7 +5295,7 @@
       "text": "When one moment becomes a lifetime.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Discard</color> 1 to play.\r\nDouble an ally's stats and grant it <color=#f6d259>Temporary</color>.",
+    "formattedTextEffect": "Discard 1 to play.\r\nDouble an ally's stats and grant it <color=#f6d259>Temporary</color>.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -5324,7 +5324,7 @@
       "text": "Learning reveals you lack answers, driving more learning, which reveals you lack answers, driving more learning...",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Draw</color> 2.\r\n<color=#f6d259>Paradox:</color> Reduce their cost by 1.",
+    "formattedTextEffect": "Draw 2.\r\n<color=#f6d259>Paradox:</color> Reduce their cost by 1.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -5634,7 +5634,7 @@
     ],
     "cost": 1,
     "strength": 1,
-    "durability": 2,
+    "durability": 1,
     "text": "Confront.\nGrant Agents I Strike Bleed 1.\nImmortalize: I see an Agent destroyed by Bleed.",
     "cardNumber": 0,
     "immortalizedCardId": 196,
@@ -5663,7 +5663,7 @@
     ],
     "cost": 1,
     "strength": 2,
-    "durability": 3,
+    "durability": 2,
     "text": "Confront.\nGrant Agents I Strike Bleed 1.\nWhen an enemy Bleeds, I Flourish.",
     "cardNumber": 0,
     "immortalizedCardId": null,
@@ -5693,7 +5693,7 @@
     "cost": 2,
     "strength": 4,
     "durability": 2,
-    "text": "Overpower. Temporary. \nImmortalize: I've seen the enemy Core take damage twice.",
+    "text": "Overpower. Temporary.\n Last Gasp: Shift to Volcanic Rivers. \n Immortalize: I've seen the enemy Core take damage twice.",
     "cardNumber": 125,
     "immortalizedCardId": 198,
     "artistName": "Xtian.Art",
@@ -5701,7 +5701,7 @@
       "text": "You never know how much you want to live until it's time to die.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Overpower</color>. <color=#f6d259>Temporary</color>.\\n<color=#f6d259>Immortalize:</color> I've seen the enemy Core take damage twice.",
+    "formattedTextEffect": "<color=#f6d259>Overpower</color>. <color=#f6d259>Temporary</color>.\\n <color=#f6d259>Last Gasp</color>: Shift to <color=#85cae9>Volcanic Rivers</color>. \\n <color=#f6d259>Immortalize:</color> I've seen the enemy Core take damage twice.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -6157,7 +6157,7 @@
     "cost": 5,
     "strength": 4,
     "durability": 5,
-    "text": "The first time each round I deal or take damage, Draw 1 and Shift to Torment.\nImmortalize: I've Drawn 3+ cards. \n",
+    "text": "The first time each round I deal or take damage, draw 1 and Shift to Torment.\nImmortalize: I've Drawn 3+ cards. \n",
     "cardNumber": 0,
     "immortalizedCardId": 214,
     "artistName": "Simon Carr",
@@ -6165,7 +6165,7 @@
       "text": "We need to push further, there is something waiting out there, calling our names.",
       "author": ""
     },
-    "formattedTextEffect": "The first time each round I take damage, <color=#f6d259>Draw</color> 1 and Shift to <color=#85cae9>Torment</color>.\r\n<color=#f6d259>Immortalize:</color> I've <color=#f6d259>Drawn</color> 3+ cards.",
+    "formattedTextEffect": "The first time each round I take damage, draw 1 and Shift to <color=#85cae9>Torment</color>.\n<color=#f6d259>Immortalize:</color> I've Drawn 3+ cards.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -6186,7 +6186,7 @@
     "cost": 5,
     "strength": 5,
     "durability": 6,
-    "text": "The first time each round an ally deals or takes damage, Draw 1 and Shift to Torment.",
+    "text": "The first time each round an ally deals or takes damage, draw 1 and Shift to Torment.",
     "cardNumber": 0,
     "immortalizedCardId": null,
     "artistName": "Simon Carr",
@@ -6194,7 +6194,7 @@
       "text": "Every drop of blood a stitch in the tapestry of creation.",
       "author": ""
     },
-    "formattedTextEffect": "The first time each round an ally takes damage, <color=#f6d259>Draw</color> 1 and Shift to <color=#85cae9>Torment</color>.",
+    "formattedTextEffect": "The first time each round an ally takes damage, draw 1 and Shift to <color=#85cae9>Torment</color>.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -6360,7 +6360,7 @@
     "cost": 5,
     "strength": 6,
     "durability": 6,
-    "text": "Cleave. Overpower.\nEnter or when I destroy an Agent: Create a Circle of Strife in hand.",
+    "text": "Cleave.\nEnter or when I destroy an Agent: Create a Circle of Strife in hand.",
     "cardNumber": 136,
     "immortalizedCardId": null,
     "artistName": "Simon Carr",
@@ -6368,7 +6368,7 @@
       "text": "Nostradan legends speak of a beast so deafening, it drowns out the screams of the dying. To hear it is to know your gods have come - and they are angry.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Cleave</color>. <color=#f6d259>Overpower</color>.\\n<color=#f6d259>Enter</color> or when I destroy an Agent: Create a <color=#a8a8a9>Circle of Strife</color> in hand.",
+    "formattedTextEffect": "<color=#f6d259>Cleave</color>.\\n<color=#f6d259>Enter</color> or when I destroy an Agent: Create a <color=#a8a8a9>Circle of Strife</color> in hand.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -6679,7 +6679,7 @@
     "cost": 1,
     "strength": 0,
     "durability": 0,
-    "text": "Grant any amount of allies Bleed 1.\r\nGrant a single enemy Bleed 1 that many times.",
+    "text": "Grant any amount of allies Bleed 1 to grant a single enemy Bleed that many times.",
     "cardNumber": 0,
     "immortalizedCardId": null,
     "artistName": "TheLastEmber",
@@ -6687,7 +6687,7 @@
       "text": "Make of your suffering an offering to greatness.",
       "author": ""
     },
-    "formattedTextEffect": "Grant any amount of allies <color=#f6d259>Bleed</color> 1.\r\nGrant a single enemy <color=#f6d259>Bleed</color> 1 that many times.",
+    "formattedTextEffect": "Grant any amount of allies <color=#f6d259>Bleed 1</color> to grant a single enemy<color=#f6d259> Bleed </color>that many times.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -6911,7 +6911,7 @@
     "cost": 1,
     "strength": 1,
     "durability": 3,
-    "text": "When I Phase or Rewind, Draw 1. \nImmortalize: I Phase or Rewind.",
+    "text": "When I Phase or Rewind, draw 1. \nImmortalize: I Phase or Rewind.",
     "cardNumber": 0,
     "immortalizedCardId": 240,
     "artistName": "Kurt Daryll Ludaes",
@@ -6919,7 +6919,7 @@
       "text": "In the beginning, Singularity wanted nothing more than Her human's pride.",
       "author": ""
     },
-    "formattedTextEffect": "When I am <color=#f6d259>Phased</color> or <color=#f6d259>Rewound</color>, <color=#f6d259>Draw</color> 1.\r\n<color=#f6d259>Immortalize:</color> I am <color=#f6d259>Phased</color> or <color=#f6d259>Rewound</color>.",
+    "formattedTextEffect": "When I am <color=#f6d259>Phased</color> or <color=#f6d259>Rewound</color>, draw 1.\n<color=#f6d259>Immortalize:</color> I am <color=#f6d259>Phased</color> or <color=#f6d259>Rewound</color>.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -6940,7 +6940,7 @@
     "cost": 1,
     "strength": 1,
     "durability": 3,
-    "text": "When I Phase or Rewind, Draw 1 and I Flourish. \nPositive keywords and stat changes stay on me at all times.",
+    "text": "When I Phase or Rewind, draw 1 and I Flourish. \nPositive keywords and stat changes stay on me at all times.",
     "cardNumber": 0,
     "immortalizedCardId": null,
     "artistName": "Kurt Daryll Ludaes",
@@ -6948,7 +6948,7 @@
       "text": "The road to war is paved with the most beautiful intentions for peace.",
       "author": ""
     },
-    "formattedTextEffect": "When I am <color=#f6d259>Phased</color> or <color=#f6d259>Rewound</color>, first <color=#f6d259>Draw</color> 1 and I <color=#f6d259>Flourish</color>.\r\nWhen I am <color=#f6d259>Rewound </color>or Destroyed, I keep all permanent buffs.",
+    "formattedTextEffect": "When I am <color=#f6d259>Phased</color> or <color=#f6d259>Rewound</color>, first draw 1 and I <color=#f6d259>Flourish</color>.\nWhen I am <color=#f6d259>Rewound </color>or Destroyed, I keep all permanent buffs.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -7267,7 +7267,7 @@
       "text": "\"Gah! If you would just read my blog you'd understand! Sheep! The lot of you!\" -Heretic Whistleblower",
       "author": ""
     },
-    "formattedTextEffect": "When I see a Shift, reveal the top card of your deck. If it is an Action, <color=#f6d259>Draw</color> 1.\\n<color=#f6d259>Immortalize:</color> I've seen 3+ Shifts.",
+    "formattedTextEffect": "When I see a Shift, reveal the top card of your deck. If it is an Action, draw 1.\\n<color=#f6d259>Immortalize:</color> I've seen 3+ Shifts.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -7383,7 +7383,7 @@
       "text": "The Violet-Eyed Inuisitioners are the Phasetide's fiercest watchdogs. None escape their sight, nor their judgement.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Play:</color> <sprite name=\"CC\"> <color=#f6d259>Rewind</color> an Agent with equal or less Durability than me.\nThe first time each round you <color=#f6d259>Rewind</color> an Agent, <color=#f6d259>Draw</color> 1.",
+    "formattedTextEffect": "<color=#f6d259>Play:</color> <sprite name=\"CC\"> <color=#f6d259>Rewind</color> an Agent with equal or less Durability than me.\nThe first time each round you <color=#f6d259>Rewind</color> an Agent, draw 1.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -7992,7 +7992,7 @@
       "text": "\"...So share thy soup with thine fellow, for all stomachs are always empty as they are always full...\" -Passage from The Chronicle of The One",
       "author": ""
     },
-    "formattedTextEffect": "Heal an Agent or Core 2.\\n<color=#f6d259>Draw</color> 1.",
+    "formattedTextEffect": "Heal an Agent or Core 2.\\nDraw 1.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -8021,7 +8021,7 @@
       "text": "\"...Man should not think of The One as an iron fist, forcing Its will unto him. Man is under The One's care, guided by held hand.\" -Passage from The Chronicle of The One",
       "author": ""
     },
-    "formattedTextEffect": "Shift to <color=#85cae9>The One True Timeline</color>.\\n<color=#f6d259>Draw</color> 1.",
+    "formattedTextEffect": "Shift to <color=#85cae9>The One True Timeline</color>.\\nDraw 1.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -8108,7 +8108,7 @@
       "text": "\"Do not worry, Masa. There was nothing you could ever do to prevent this because this is and will always be and always has been. I don't take your betrayal personally because it wasn't even really your choice. It is your destiny.\" -Father",
       "author": ""
     },
-    "formattedTextEffect": "I cost 1 less if you see the <color=#85cae9>The One True Timeline</color>.\r\n<color=#f6d259>Phase</color> an Agent.\r\n<color=#f6d259>Draw</color> 1.",
+    "formattedTextEffect": "I cost 1 less if you see the <color=#85cae9>The One True Timeline</color>.\r\n<color=#f6d259>Phase</color> an Agent.\r\nDraw 1.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -8265,6 +8265,64 @@
     }
   },
   {
+    "id": 290,
+    "name": "Wandering Mountain",
+    "syndicate": "LIFEBLOOD",
+    "cardType": [
+      "AGENT"
+    ],
+    "cost": 12,
+    "strength": 8,
+    "durability": 8,
+    "text": "I cost 1 less for each Agent in your Graveyard. Immortalize: There are 8+ Agents in your Graveyard.",
+    "cardNumber": 290,
+    "immortalizedCardId": 291,
+    "artistName": "Kurt Daryll Ludaes",
+    "flavorText": {
+      "text": "Ages ago, the spark of bounty touched down on Limphus and created a new form of life. The animals had a new sense of self, the plants flourished and produced new fruit never before seen.  Rocks that have not moved for millenia began to creak.",
+      "author": ""
+    },
+    "formattedTextEffect": "I cost 1 less for each Agent in your Graveyard. <color=#f6d259>Immortalize:</color> There are 8+ Agents in your Graveyard.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Lost",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 291,
+    "name": "Titan of the Forest",
+    "syndicate": "LIFEBLOOD",
+    "cardType": [
+      "IMMORTALIZED_AGENT"
+    ],
+    "cost": 12,
+    "strength": 8,
+    "durability": 8,
+    "text": "I cost 1 less for each Agent in your Graveyard. \r\nEnter: Shift to Deadly Fauna.",
+    "cardNumber": 291,
+    "immortalizedCardId": null,
+    "artistName": "Kurt Daryll Ludaes",
+    "flavorText": {
+      "text": "Every hundred years the Titan of the Forest breaks away from its slumber and begins to wander. It'll walk the entire planet before returning back to the crevice it left behind and settle back into its place for a hundred more.",
+      "author": ""
+    },
+    "formattedTextEffect": "I cost 1 less for each Agent in your Graveyard. <color=#f6d259>\r\nEnter:</color> Shift to <color=#85cae9>Deadly Fauna</color>.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Lost",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
     "id": 293,
     "name": "Pack Tactics",
     "syndicate": "LIFEBLOOD",
@@ -8359,7 +8417,7 @@
       "AGENT"
     ],
     "cost": 1,
-    "strength": 0,
+    "strength": 1,
     "durability": 3,
     "text": "I have +3/+0 while I see Voiceless Sky.\nImmortalize: I see you Shift to Voiceless Sky.",
     "cardNumber": 301,
@@ -8388,7 +8446,7 @@
       "IMMORTALIZED_AGENT"
     ],
     "cost": 1,
-    "strength": 0,
+    "strength": 1,
     "durability": 3,
     "text": "I have +3/+0 while I see Voiceless Sky.\nLast Gasp: Grant the weakest ally my Strength.",
     "cardNumber": 302,
@@ -8468,6 +8526,35 @@
     }
   },
   {
+    "id": 319,
+    "name": "Pocket Stacks",
+    "syndicate": "SINGULARITY",
+    "cardType": [
+      "ACTION_IMMEDIATE"
+    ],
+    "cost": 6,
+    "strength": 0,
+    "durability": 0,
+    "text": "Grant allied Pocket Scouts EVERYWHERE +2/+2.",
+    "cardNumber": 319,
+    "immortalizedCardId": null,
+    "artistName": "Xtian.Art",
+    "flavorText": {
+      "text": "\"Hello! Good to see you fellow adult man. The batteries? Yes, we've got them right here. I mean I'VE got them right here...\" Marvin the Head",
+      "author": ""
+    },
+    "formattedTextEffect": "Grant allied <color=#a8a8a9>Pocket Scouts</color> EVERYWHERE +2/+2.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Lost",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
     "id": 327,
     "name": "Magmatic Teachings",
     "syndicate": "SPLINTERGLEAM",
@@ -8497,6 +8584,64 @@
     }
   },
   {
+    "id": 330,
+    "name": "Student of the Blade",
+    "syndicate": "PHASETIDE",
+    "cardType": [
+      "AGENT"
+    ],
+    "cost": 2,
+    "strength": 3,
+    "durability": 1,
+    "text": "Blitz.\r\n When I would Strike an Agent while attacking, first grant me Strength equal to its Durability. \nImmortalize: I have 8+ Strength.",
+    "cardNumber": 330,
+    "immortalizedCardId": 331,
+    "artistName": "Romulo Reyes",
+    "flavorText": {
+      "text": "Masa found Hiriki in the underbelly of Novus Secundus. Tossed aside by the enforcers after his \"heretic\" father was beaten and dragged away. Hiriki trains every day in the hopes to one day take back what was stolen from him.",
+      "author": ""
+    },
+    "formattedTextEffect": "<color=#f6d259>Blitz</color>.\r\n When I would Strike an Agent while attacking, first grant me Strength equal to its Durability. \n<color=#f6d259>Immortalize:</color> I have 8+ Strength.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Divergent",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 331,
+    "name": "Hiriki the Quick",
+    "syndicate": "PHASETIDE",
+    "cardType": [
+      "IMMORTALIZED_AGENT"
+    ],
+    "cost": 2,
+    "strength": 3,
+    "durability": 3,
+    "text": "Blitz. \r\nWhen I would Strike an Agent while attacking, first grant me Strength equal to its Durability. \r\nRound Start: Grant the Strongest enemy Exposed.",
+    "cardNumber": 331,
+    "immortalizedCardId": null,
+    "artistName": "Romulo Reyes",
+    "flavorText": {
+      "text": "\"Do it again. A real target won't be standing still.\" -Masa, Time-Lost",
+      "author": ""
+    },
+    "formattedTextEffect": "<color=#f6d259>Blitz</color>. \r\nWhen I would Strike an Agent while attacking, first grant me Strength equal to its Durability. \r\nRound Start: Grant the Strongest enemy <color=#f6d259>Exposed</color>.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Divergent",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
     "id": 335,
     "name": "Glasswinged Monarch",
     "syndicate": "LIFEBLOOD",
@@ -8506,7 +8651,7 @@
     "cost": 6,
     "strength": 4,
     "durability": 4,
-    "text": "Evasive.\r\nEnter or Core Strike: Shift to Abundant Growth. Immortalize: I've seen you Shift twice.",
+    "text": "Evasive.\r\nEnter or Core Strike: Shift to Abundant Growth. \r\nImmortalize: I've seen you Shift twice.",
     "cardNumber": 0,
     "immortalizedCardId": 336,
     "artistName": "Kurt Daryll Ludaes",
@@ -8514,7 +8659,7 @@
       "text": "\"When we're up there, remember that we don't rule the skies. You'll hear the thrumming of their wings before you see them.\" - Gritmancer Grant",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Evasive</color>.\r\n<color=#f6d259>Enter</color> or <color=#f6d259>Core Strike:</color> Shift to <color=#85cae9>Abundant Growth</color>. <color=#f6d259>Immortalize:</color> I've seen you Shift twice.",
+    "formattedTextEffect": "<color=#f6d259>Evasive</color>.\r\n<color=#f6d259>Enter</color> or <color=#f6d259>Core Strike:</color> Shift to <color=#85cae9>Abundant Growth</color>. <color=#f6d259>\r\nImmortalize:</color> I've seen you Shift twice.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -8535,7 +8680,7 @@
     "cost": 6,
     "strength": 4,
     "durability": 4,
-    "text": "Evasive.\r\nEnter or Core Strike: Shift to Abundant Growth. Allies have +1/+1.",
+    "text": "Evasive.\r\nEnter or Core Strike: Shift to Abundant Growth. \r\nAllies have +1/+1.",
     "cardNumber": 0,
     "immortalizedCardId": null,
     "artistName": "Kurt Daryll Ludaes",
@@ -8543,7 +8688,7 @@
       "text": "In the shimmer of its wings, the ancients claimed to see the shape of the world.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Evasive</color>.\r\n<color=#f6d259>Enter</color> or <color=#f6d259>Core Strike:</color> Shift to <color=#85cae9>Abundant Growth</color>. Allies have +1/+1.",
+    "formattedTextEffect": "<color=#f6d259>Evasive</color>.\r\n<color=#f6d259>Enter</color> or <color=#f6d259>Core Strike:</color> Shift to <color=#85cae9>Abundant Growth</color>. \r\nAllies have +1/+1.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -8767,7 +8912,7 @@
     "cost": 3,
     "strength": 4,
     "durability": 4,
-    "text": "Enter or the first time each round an ally survives damage: create two Blood Shards in hand.",
+    "text": "Fervor\r\nEnter or the first time each round an ally survives damage: create two Blood Shards in hand.",
     "cardNumber": 0,
     "immortalizedCardId": null,
     "artistName": "Karl Angelo Brito",
@@ -8775,7 +8920,7 @@
       "text": "The aura of the Blood Moon filled Driven's veins with vigor. It was power he hadn't felt in ages. It was intoxicating.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Enter</color> or the first time each round an ally survives damage: create two <color=#a8a8a9>Blood Shards</color> in hand.",
+    "formattedTextEffect": "<color=#f6d259>Fervor</color>\r\n<color=#f6d259>Enter</color> or the first time each round an ally survives damage: create two <color=#a8a8a9>Blood Shards</color> in hand.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -8796,7 +8941,7 @@
     "cost": 1,
     "strength": 0,
     "durability": 0,
-    "text": "Discard 1 to play. \r\nWhen played, grant an ally +1/+0 then deal 1 to it. \r\nWhen Discarded, grant your Strongest ally +1/0 then deal 1 to it.",
+    "text": "Discard 1 to play. \r\nWhen played, grant an ally +1/+0 then deal 1 to it. \r\nWhen discarded, grant your Strongest ally +1/0 then deal 1 to it.",
     "cardNumber": 0,
     "immortalizedCardId": null,
     "artistName": "TheLastEmber",
@@ -8804,7 +8949,7 @@
       "text": "\"Feel my pain.\" -Driven the Scarlet Storm",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Discard</color> 1 to play. \r\nWhen played, grant an ally +1/+0 then deal 1 to it. \r\nWhen <color=#f6d259>Discarded</color>, grant your Strongest ally +1/0 then deal 1 to it.",
+    "formattedTextEffect": "Discard 1 to play. \r\nWhen played, grant an ally +1/+0 then deal 1 to it. \r\nWhen discarded, grant your Strongest ally +1/0 then deal 1 to it.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -8863,6 +9008,122 @@
       "author": ""
     },
     "formattedTextEffect": "<color=#f6d259>Activate</color>: Deal 1 to an ally then Heal it 1. \r\nWhen you Heal a damaged ally, give it <color=#f6d259>Evasive</color> this round.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Lost",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 348,
+    "name": "Young Cindercoil",
+    "syndicate": "SPLINTERGLEAM",
+    "cardType": [
+      "AGENT"
+    ],
+    "cost": 2,
+    "strength": 2,
+    "durability": 3,
+    "text": "Attack: [icon] Deal 2 to the enemy Core. \r\nImmortalize: You've dealt 10+ non-combat damage this game.",
+    "cardNumber": 0,
+    "immortalizedCardId": 349,
+    "artistName": "Arthur Rosa",
+    "flavorText": {
+      "text": "Mt. Veraki's extreme environment leaves little room for wildlife and fauna. The Cindercoil's hard skin gave them a unique resistance heat and allow them to swim the volcanic rivers. ",
+      "author": ""
+    },
+    "formattedTextEffect": "Attack: <sprite name=\"CC\" size=1.4 toffset=0.1> Deal 2 to the enemy Core. <color=#f6d259>\r\nImmortalize</color>: You've dealt 10+ non-combat damage this game.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Divergent",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 349,
+    "name": "\"Sizzy\" the Alpha",
+    "syndicate": "SPLINTERGLEAM",
+    "cardType": [
+      "IMMORTALIZED_AGENT"
+    ],
+    "cost": 2,
+    "strength": 2,
+    "durability": 4,
+    "text": "Overpower.\r\n Attack: [icon] Deal 2 to the enemy Core and my blocker.",
+    "cardNumber": 0,
+    "immortalizedCardId": null,
+    "artistName": "Arthur Rosa",
+    "flavorText": {
+      "text": "A Cindercoil in the wild can grow to over five meters! A domesticated Cindercoil however...",
+      "author": ""
+    },
+    "formattedTextEffect": "<color=#f6d259>Overpower</color>.\r\n Attack: <sprite name=\"CC\" size=1.4 toffset=0.1> Deal 2 to the enemy Core and my blocker.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Divergent",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 350,
+    "name": "Justified Means",
+    "syndicate": "SUNGRACE",
+    "cardType": [
+      "ACTION_FAST"
+    ],
+    "cost": 7,
+    "strength": 0,
+    "durability": 0,
+    "text": "Deal 3 to two Agents to deal 6 to the enemy Core.",
+    "cardNumber": 0,
+    "immortalizedCardId": null,
+    "artistName": "TheLastEmber",
+    "flavorText": {
+      "text": "\"...but Admiral... there are civilians on that planet.\" -Vigo, Junior Lieutenant",
+      "author": ""
+    },
+    "formattedTextEffect": "Deal 3 to two Agents to deal 6 to the enemy Core.",
+    "cardSet": {
+      "name": "Core Set",
+      "code": "CORE"
+    },
+    "rarityName": "Divergent",
+    "banData": {
+      "reason": "",
+      "format": ""
+    }
+  },
+  {
+    "id": 351,
+    "name": "Ghastly Rush",
+    "syndicate": "SILENCE",
+    "cardType": [
+      "ACTION_SLOW"
+    ],
+    "cost": 6,
+    "strength": 0,
+    "durability": 0,
+    "text": "Summon an attacking Temporary exact copy of each ally.",
+    "cardNumber": 0,
+    "immortalizedCardId": null,
+    "artistName": "Romulo Reyes",
+    "flavorText": {
+      "text": "\"Arise and die!\" -Corvus Khan, the Unforgiven.",
+      "author": ""
+    },
+    "formattedTextEffect": "Summon an attacking <color=#f6d259>Temporary</color> exact copy of each ally.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"

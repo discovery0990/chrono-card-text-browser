@@ -1,7 +1,7 @@
 Brilliant Martyr                 1 | 2/1
 ---
 Last Gasp: Shift to Star Siphon.
-Immortalize: I see your Energy Reserve Overflow.
+Immortalize: I see you Overflow.
 
   ⇒ Quaid, the Willing           1 | 3/2
   Last Gasp: Shift to Star Siphon.

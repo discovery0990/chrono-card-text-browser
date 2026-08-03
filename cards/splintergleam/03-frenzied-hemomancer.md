@@ -4,6 +4,7 @@ Enter or the first time each round an ally survives damage: create a Blood Shard
 Immortalize: I see 2+ Blood Shards in your graveyard.
 
   ⇒ Driven the Scarlet Storm     3 | 4/4
+  Fervor
   Enter or the first time each round an ally survives damage: create two Blood Shards in hand.
 ---
 Lost · Core Set

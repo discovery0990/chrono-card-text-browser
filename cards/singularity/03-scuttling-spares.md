@@ -1,13 +1,8 @@
 Scuttling Spares                 3 | 3/1
 ---
-When I am Discarded: Create a copy of me in hand.
+When I am discarded: Create a copy of me in hand.
 Immortalize: I see 2+ Scuttling Spares in your Graveyard.
 I can Immortalize out of play.
-
-
-
-
-
 
   ⇒ Zorp, Unrecyclable           3 | 5/1
   Overpower.

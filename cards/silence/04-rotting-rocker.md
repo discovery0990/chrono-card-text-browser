@@ -1,7 +1,7 @@
 Rotting Rocker                   4 | 2/2
 ---
 Activate: (C) Deal 2 to a random enemy.
-Immortalize: I've seen Agents Deplete 4+ times.
+Immortalize: I've seen you Deplete Agents 4+ times.
 
   ⇒ Ylka, the Headliner          4 | 2/2
   Activate: Rock out.
