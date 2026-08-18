@@ -887,7 +887,7 @@
       "text": "Nothing sweeter than the scent of fear.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Enter</color> or when I <color=#f6d259>Immortalize</color>: Give the Strongest enemy <color=#f6d259>Exposed</color> and set its stats to 1/1 this round.\r\n<color=#f6d259>Immortalize:</color> I've destroyed an Agent.",
+    "formattedTextEffect": "<color=#f6d259>Enter</color> or when I <color=#f6d259>Immortalize</color>: Give the <color=#D4AF37>Strongest</color> enemy <color=#f6d259>Exposed</color> and set its stats to 1/1 this round.\r\n<color=#f6d259>Immortalize:</color> I've destroyed an Agent.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -916,7 +916,7 @@
       "text": "Spend enough time with the dinosaurs, someday you may wake up as one.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Enter</color> or when I destroy an Agent: Give the Strongest enemy <color=#f6d259>Exposed</color> and set its stats to 1/1 this round.",
+    "formattedTextEffect": "<color=#f6d259>Enter</color> or when I destroy an Agent: Give the <color=#D4AF37>Strongest</color> enemy <color=#f6d259>Exposed</color> and set its stats to 1/1 this round.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -1148,7 +1148,7 @@
       "text": "The wolves of Lifeblood have such a keen sense of smell that they can track their prey through the corridors of time.",
       "author": ""
     },
-    "formattedTextEffect": "Shift to <color=#85cae9>Abundant Growth</color>.\\nFor each two Timelines in the Timeline Stack, summon an attacking <color=#a8a8a9>Wolf</color> <color=#f6d259>Confronting</color> the weakest unconfronted enemy.",
+    "formattedTextEffect": "Shift to <color=#85cae9>Abundant Growth</color>.\\nFor each two Timelines in the Timeline Stack, summon an attacking <color=#a8a8a9>Wolf</color> <color=#f6d259>Confronting</color> the <color=#D4AF37>Weakest</color> unconfronted enemy.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -1844,7 +1844,7 @@
       "text": "\"Hats off to you, Friend.\" -Malark, the Silver Wave",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Blitz</color>.\\n<color=#f6d259>Last Gasp:</color> Grant the weakest ally <color=#f6d259>Blitz</color>, +4/+1 and this <color=#f6d259>Last Gasp</color>.",
+    "formattedTextEffect": "<color=#f6d259>Blitz</color>.\\n<color=#f6d259>Last Gasp:</color> Grant the <color=#D4AF37>Weakest</color> ally <color=#f6d259>Blitz</color>, +4/+1 and this <color=#f6d259>Last Gasp</color>.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -2801,7 +2801,7 @@
       "text": "Against unbounded universes of possibility, there can be no victory.",
       "author": ""
     },
-    "formattedTextEffect": "Summon the Strongest Agent in your deck now and at each Round Start.",
+    "formattedTextEffect": "Summon the <color=#D4AF37>Strongest</color> Agent in your deck now and at each Round Start.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -3526,7 +3526,7 @@
       "text": "The ringing in your ears, the pain of your aches, the taste of your own breath. All of these sensations fade in the background of your life.",
       "author": ""
     },
-    "formattedTextEffect": "When I <color=#f6d259>Phase</color> in, deal damage equal to my Strength to the weakest enemy.\\n<color=#f6d259>Activate:</color> <sprite name=\"CC\" size=1.4 toffset=0.1> I <color=#f6d259>Flourish</color>, then <color=#f6d259>Phase</color>.\\n<color=#f6d259>Immortalize:</color> I've seen 3+ Agents destroyed.",
+    "formattedTextEffect": "When I <color=#f6d259>Phase</color> in, deal damage equal to my Strength to the <color=#D4AF37>Weakest</color> enemy.\\n<color=#f6d259>Activate:</color> <sprite name=\"CC\" size=1.4 toffset=0.1> I <color=#f6d259>Flourish</color>, then <color=#f6d259>Phase</color>.\\n<color=#f6d259>Immortalize:</color> I've seen 3+ Agents destroyed.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -3555,7 +3555,7 @@
       "text": "When you remove it all, you're left with nothing but you.",
       "author": ""
     },
-    "formattedTextEffect": "When I <color=#f6d259>Phase</color> in, deal damage equal to my Strength to the weakest enemy and the enemy Core.\\n<color=#f6d259>Activate:</color> <sprite name=\"CC\" size=1.4 toffset=0.1> I <color=#f6d259>Flourish</color>, then <color=#f6d259>Phase</color>.",
+    "formattedTextEffect": "When I <color=#f6d259>Phase</color> in, deal damage equal to my Strength to the <color=#D4AF37>Weakest</color> enemy and the enemy Core.\\n<color=#f6d259>Activate:</color> <sprite name=\"CC\" size=1.4 toffset=0.1> I <color=#f6d259>Flourish</color>, then <color=#f6d259>Phase</color>.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -3932,7 +3932,7 @@
       "text": "Out, am I?!",
       "author": ""
     },
-    "formattedTextEffect": "Revive the strongest ally that was destroyed this round.",
+    "formattedTextEffect": "Revive the <color=#D4AF37>Strongest</color> ally that was destroyed this round.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -4396,7 +4396,7 @@
       "text": "Caution. Yield. Stop....Please?",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Enter:</color> <color=#f6d259>Disarm</color> the Strongest enemy.\\n<color=#f6d259>Immortalize:</color> I've seen 3+ Agents reduced to 0 Strength.",
+    "formattedTextEffect": "<color=#f6d259>Enter:</color> <color=#f6d259>Disarm</color> the <color=#D4AF37>Strongest</color> enemy.\\n<color=#f6d259>Immortalize:</color> I've seen 3+ Agents reduced to 0 Strength.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -4425,7 +4425,7 @@
       "text": "You. Shall Not. Pass!",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Enter:</color> <color=#f6d259>Disarm</color> the Strongest enemy.\\nRound End: If you have an unspent Attack Token, create a <color=#a8a8a9>We Have Cookies</color> in hand.",
+    "formattedTextEffect": "<color=#f6d259>Enter:</color> <color=#f6d259>Disarm</color> the <color=#D4AF37>Strongest</color> enemy.\\nRound End: If you have an unspent Attack Token, create a <color=#a8a8a9>We Have Cookies</color> in hand.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -5266,7 +5266,7 @@
       "text": "What if we all stopped. Just for a moment. Wouldn't that be beautiful?",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Disarm</color> the strongest ally to <color=#f6d259>Disarm</color> the two strongest enemies.",
+    "formattedTextEffect": "<color=#f6d259>Disarm</color> the <color=#D4AF37>Strongest</color> ally to <color=#f6d259>Disarm</color> the two <color=#D4AF37>Strongest</color> enemies.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -6078,7 +6078,7 @@
       "text": "\"No boss, it was nuthin' but bodies and smoke. It was... It was like a slaughterhouse in there.\" -Local Hooligan",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Blitz</color>. <color=#f6d259>Cleave</color>.\\n<color=#f6d259>Play:</color> Grant an enemy <color=#f6d259>Exposed</color>.\\nRound Start: Grant the strongest enemy <color=#f6d259>Exposed</color>.",
+    "formattedTextEffect": "<color=#f6d259>Blitz</color>. <color=#f6d259>Cleave</color>.\\n<color=#f6d259>Play:</color> Grant an enemy <color=#f6d259>Exposed</color>.\\nRound Start: Grant the <color=#D4AF37>Strongest</color> enemy <color=#f6d259>Exposed</color>.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -6484,7 +6484,7 @@
       "text": "Civilizations are simply another concept to be broken and remade in Splintergleams image.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Overpower</color>.\\nRound Start: Deal 1 to the enemy Core twice.\\nWhen you deal non-combat damage to the enemy Core, <color=#f6d259>Deplete</color> the weakest enemy.\\nCore Strike: Deal 3 to all enemies and the enemy Core.",
+    "formattedTextEffect": "<color=#f6d259>Overpower</color>.\\nRound Start: Deal 1 to the enemy Core twice.\\nWhen you deal non-combat damage to the enemy Core, <color=#f6d259>Deplete</color> the <color=#D4AF37>Weakest</color> enemy.\\nCore Strike: Deal 3 to all enemies and the enemy Core.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -7064,7 +7064,7 @@
       "text": "With a leader at the front, their voices and hearts become one.",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Enter:</color> Shift to <color=#85cae9>The One True Timeline</color>.\r\nWhen I am <color=#f6d259>Phased</color> or <color=#f6d259>Rewound</color> my strongest ally <color=#f6d259>Flourishes</color>.",
+    "formattedTextEffect": "<color=#f6d259>Enter:</color> Shift to <color=#85cae9>The One True Timeline</color>.\r\nWhen I am <color=#f6d259>Phased</color> or <color=#f6d259>Rewound</color> my <color=#D4AF37>Strongest</color> ally <color=#f6d259>Flourishes</color>.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -8456,7 +8456,7 @@
       "text": "\"I return! I will get my revenge! I... what am I?\" -Cray, Reborn.",
       "author": ""
     },
-    "formattedTextEffect": "I have +3/+0 while I see <color=#85cae9>Voiceless Sky</color>.\n<color=#f6d259>Last Gasp</color>: Grant the weakest ally my Strength.",
+    "formattedTextEffect": "I have +3/+0 while I see <color=#85cae9>Voiceless Sky</color>.\n<color=#f6d259>Last Gasp</color>: Grant the <color=#D4AF37>Weakest</color> ally my Strength.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -8572,7 +8572,7 @@
       "text": "\"With these markings, you become one of us.\" - Vera, Original Proof",
       "author": ""
     },
-    "formattedTextEffect": "An <color=#f6d259>Immortalized</color> ally Strikes an enemy. If that enemy is destroyed,<color=#f6d259> Immortalize </color>your weakest non-<color=#f6d259>Immortalized</color> ally.",
+    "formattedTextEffect": "An <color=#f6d259>Immortalized</color> ally Strikes an enemy. If that enemy is destroyed,<color=#f6d259> Immortalize </color>your <color=#D4AF37>Weakest</color> non-<color=#f6d259>Immortalized</color> ally.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -8630,7 +8630,7 @@
       "text": "\"Do it again. A real target won't be standing still.\" -Masa, Time-Lost",
       "author": ""
     },
-    "formattedTextEffect": "<color=#f6d259>Blitz</color>. \r\nWhen I would Strike an Agent while attacking, first grant me Strength equal to its Durability. \r\nRound Start: Grant the Strongest enemy <color=#f6d259>Exposed</color>.",
+    "formattedTextEffect": "<color=#f6d259>Blitz</color>. \r\nWhen I would Strike an Agent while attacking, first grant me Strength equal to its Durability. \r\nRound Start: Grant the <color=#D4AF37>Strongest</color> enemy <color=#f6d259>Exposed</color>.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
@@ -8949,7 +8949,7 @@
       "text": "\"Feel my pain.\" -Driven the Scarlet Storm",
       "author": ""
     },
-    "formattedTextEffect": "Discard 1 to play. \r\nWhen played, grant an ally +1/+0 then deal 1 to it. \r\nWhen discarded, grant your Strongest ally +1/0 then deal 1 to it.",
+    "formattedTextEffect": "Discard 1 to play. \r\nWhen played, grant an ally +1/+0 then deal 1 to it. \r\nWhen discarded, grant your <color=#D4AF37>Strongest</color> ally +1/0 then deal 1 to it.",
     "cardSet": {
       "name": "Core Set",
       "code": "CORE"
