@@ -1,5 +1,5 @@
 Soothing Glow                    2 | Immediate
 ---
-An ally Flourishes to heal your Core 2.
+Grant an ally +1/+2 to heal your Core 1.
 ---
 Common · Core Set

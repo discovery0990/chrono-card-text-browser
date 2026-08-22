@@ -1,4 +1,4 @@
-We Have Cookies                  8 | Slow
+We Have Cookies                  7 | Slow
 ---
 Take control of an enemy with a cost equal or less than the number of Timelines in the Timeline Stack.
 ---

@@ -1,10 +1,9 @@
-Scattered Helpers                2 | 0/4
+Scattered Helpers                2 | 3/1
 ---
-Allies have "Last Gasp: Allies with the same name as me Flourish."
-Immortalize: I see 3+ allies with the same name as other allies.
+Last Gasp: Summon a Pocket Scout.
+Immortalize: I see 3+ Pocket Scouts.
 
   ⇒ Nanobot Hive                 2 | 4/4
-  Allies have "Last Gasp: Allies with the same name as me Flourish."
-  Last Gasp: Allies with the same name as other allies Flourish.
+  Last Gasp: Summon two Pocket Scouts.
 ---
 Rare · Core Set

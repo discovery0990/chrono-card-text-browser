@@ -1,4 +1,4 @@
-Blood Shard                      1 | UNKNOWN
+Blood Shard                      0 | UNKNOWN
 ---
 Discard 1 to play.
 When played, grant an ally +1/+0 then deal 1 to it.

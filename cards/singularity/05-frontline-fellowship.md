@@ -1,4 +1,4 @@
-Frontline Fellowship             4 | Immediate
+Frontline Fellowship             5 | Immediate
 ---
 Disarm the strongest ally to Disarm the two strongest enemies.
 ---

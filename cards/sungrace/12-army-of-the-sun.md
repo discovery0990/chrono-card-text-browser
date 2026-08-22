@@ -1,4 +1,4 @@
-Army of the Sun                  13 | Slow
+Army of the Sun                  12 | Slow
 ---
 Summon the Strongest Agent in your deck now and at each Round Start.
 ---

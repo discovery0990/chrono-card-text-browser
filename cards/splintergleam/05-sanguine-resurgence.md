@@ -1,6 +1,5 @@
 Sanguine Resurgence              5 | Slow
 ---
-Your Bleed effects gain Siphon this round.
-Grant two Agents Bleed 3.
+Grant two Agents Bleed 3. Heal your Core 5.
 ---
 Rare · Core Set

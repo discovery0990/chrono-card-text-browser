@@ -1,4 +1,4 @@
-Mind Over Matter                 3 | Fast
+Mind Over Matter                 2 | Fast
 ---
 If Voiceless Sky is active, I am Immediate Speed.
 Deplete an Agent.

@@ -1,9 +1,10 @@
 Fervent Mycologist               1 | 1/1
 ---
 Evasive.
+Strike: Sprout 1.
 Immortalize: I've Struck the enemy Core.
 
-  ⇒ Jenny, Sower of Spores       1 | 1/1
+  ⇒ Jenny, Sower of Spores       1 | 2/1
   Evasive.
   Strike: Sprout 1.
 ---
