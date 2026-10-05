@@ -1,7 +1,7 @@
 Young Cindercoil                 2 | 2/3
 ---
 Attack: (C) Deal 2 to the enemy Core.
-Immortalize: You've dealt 10+ non-combat damage this game.
+Immortalize: You've dealt 12+ non-combat damage this game.
 
   ⇒ "Sizzy" the Alpha            2 | 2/4
   Overpower.

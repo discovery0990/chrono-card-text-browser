@@ -1,7 +1,6 @@
 Set in Stone                     4 | Fast
 ---
-I cost 1 less if you see The One True Timeline.
-An Agent Phases.
+Phase an Agent.
 Draw 1.
 ---
 Common · Core Set

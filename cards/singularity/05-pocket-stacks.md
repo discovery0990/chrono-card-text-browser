@@ -1,4 +1,4 @@
-Pocket Stacks                    6 | Immediate
+Pocket Stacks                    5 | Immediate
 ---
 Grant allied Pocket Scouts EVERYWHERE +2/+2.
 ---

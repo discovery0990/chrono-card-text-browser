@@ -1,4 +1,4 @@
-Agent of Stability               1 | 1/2
+Agent of Stability               1 | 1/1
 ---
 Evasive.
 Strike: Create a The Firm Hand in hand or reduce its cost by 1 if you already have one.

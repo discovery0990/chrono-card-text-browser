@@ -1,4 +1,4 @@
-Ghostblade                       2 | 3/2
+Ghostblade                       2 | 3/1
 ---
 Blitz.
 Strike: Shift to Voiceless Sky then I Phase.

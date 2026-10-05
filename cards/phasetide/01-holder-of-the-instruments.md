@@ -1,4 +1,4 @@
-Holder of the Instruments        1 | 2/1
+Holder of the Instruments        1 | 1/1
 ---
 Enter: Shift to The One True Timeline.
 Immortalize: I Phase or Rewind.
